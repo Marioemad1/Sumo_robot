@@ -6,7 +6,7 @@ This project allows you to manually control a sumo robot using a **Bluetooth mod
 
 ## 📸 Images
 
-![sumo_robot_auto](image/sumo_robot_auto.png) 
+![sumo_robot_manual](image/sumo_robot_manual.png) 
 
 ---
 
