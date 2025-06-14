@@ -1,12 +1,14 @@
 # 🤖 Bluetooth-Controlled Sumo Robot
 
 This project allows you to manually control a sumo robot using a **Bluetooth module** and a **smartphone app**. The robot responds to directional commands like Forward, Backward, Left, Right, and Stop.
+---
 ![sumo_robot_manual](image/body.png) 
-![sumo_robot_manual](image/components.png) 
+---
+![sumo_robot_manual](image/componets.png) 
 
 ---
 
-## 📸 Images
+## connection
 
 ![sumo_robot_manual](image/sumo_robot_manual.png) 
 
